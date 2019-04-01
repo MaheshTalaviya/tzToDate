@@ -1,0 +1,11 @@
+{
+  "name": "tztodatetime",
+  "version": "1.0.0",
+  "description": "tz time to convert datetime formate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahesh talaviya",
+  "license": "ISC"
+}
